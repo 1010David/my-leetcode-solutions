@@ -36,12 +36,5 @@ class Solution {
         return true; // Si no encontramos problemas, retornamos true
     }
 
-    // Pruebas con los ejemplos dados
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.isArraySpecial(new int[]{1})); // true
-        System.out.println(solution.isArraySpecial(new int[]{2, 1, 4})); // true
-        System.out.println(solution.isArraySpecial(new int[]{4, 3, 1, 6})); // false
-    }
 }
 
