@@ -1,4 +1,4 @@
-package com.project.leetcode_solutions.easy.arrays.runningSumof1dArray;
+package com.project.leetcode_solutions.easy.arrays.runningSumOf1dArray;
 
 
 public class Main {

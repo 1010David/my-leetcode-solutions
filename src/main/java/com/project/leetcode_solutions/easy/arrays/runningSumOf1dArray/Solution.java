@@ -1,4 +1,4 @@
-package com.project.leetcode_solutions.easy.arrays.runningSumof1dArray;
+package com.project.leetcode_solutions.easy.arrays.runningSumOf1dArray;
 
 /**
  *Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
